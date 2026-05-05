@@ -1,0 +1,188 @@
+{
+  "characters": [
+    {
+      "id": "c01",
+      "name": "卑弥呼",
+      "emoji": "🔮",
+      "desc": "邪馬台国の女王として『魏志倭人伝』に記される、日本史で有名な女性。",
+      "image": "images/c01.webp",
+      "rarity": "legendary",
+      "series": "日本の偉人"
+    },
+    {
+      "id": "c02",
+      "name": "エリザベス1世",
+      "emoji": "🦁",
+      "desc": "イングランドの「黄金時代」を築いた女王として知られる。",
+      "image": "images/c02.webp",
+      "rarity": "rare",
+      "series": "ヨーロッパの偉人"
+    },
+    {
+      "id": "c03",
+      "name": "マリー・キュリー",
+      "emoji": "🧪",
+      "desc": "物理学と化学の2分野でノーベル賞を受賞した、ポーランド出身の科学者。",
+      "image": "images/c03.webp",
+      "rarity": "rare",
+      "series": "科学・医療の偉人"
+    },
+    {
+      "id": "c04",
+      "name": "清少納言",
+      "emoji": "🖌️",
+      "desc": "『枕草子』で知られ、平安時代の宮廷文化を今に伝える女性作家。",
+      "image": "images/c04.webp",
+      "rarity": "rare",
+      "series": "日本の偉人"
+    },
+    {
+      "id": "c05",
+      "name": "フローレンス・ナイチンゲール",
+      "emoji": "🕯️",
+      "desc": "近代看護の基礎を築いた、イギリスの看護師・社会起業家。",
+      "image": "images/c05.webp",
+      "rarity": "common",
+      "series": "科学・医療の偉人"
+    },
+    {
+      "id": "c06",
+      "name": "クレオパトラ",
+      "emoji": "🐍",
+      "desc": "古代エジプトの女王として知られ、世界史の教科書にもよく登場する女性。",
+      "image": "images/c06.webp",
+      "rarity": "legendary",
+      "series": "女王・リーダー"
+    },
+    {
+      "id": "c07",
+      "name": "ジャンヌ・ダルク",
+      "emoji": "⚔️",
+      "desc": "百年戦争でフランスを勇気づけた存在として知られる歴史上の女性。",
+      "image": "images/c07.webp",
+      "rarity": "legendary",
+      "series": "ヨーロッパの偉人"
+    },
+    {
+      "id": "c08",
+      "name": "アンネ・フランク",
+      "emoji": "📘",
+      "desc": "第二次世界大戦中のナチスによるホロコーストの犠牲者となった、ユダヤ人の少女。",
+      "image": "images/c08.webp",
+      "rarity": "common",
+      "series": "勇気・正義の偉人"
+    },
+    {
+      "id": "c09",
+      "name": "マリー・アントワネット",
+      "emoji": "🌹",
+      "desc": "フランス革命の時代を語るうえでよく知られる王妃。",
+      "image": "images/c09.webp",
+      "rarity": "rare",
+      "series": "ヨーロッパの偉人"
+    },
+    {
+      "id": "c10",
+      "name": "北条政子",
+      "emoji": "🏯",
+      "desc": "鎌倉幕府の成立と発展に深く関わり、『尼将軍』とも呼ばれた日本史で有名な女性。",
+      "image": "images/c10.webp",
+      "rarity": "rare",
+      "series": "日本の偉人"
+    },
+    {
+      "id": "c11",
+      "name": "ベアトリクス・ポター",
+      "emoji": "🐇",
+      "desc": "『ピーターラビット』の作者として知られ、児童文学で親しまれるイギリスの女性作家。",
+      "image": "images/c11.webp",
+      "rarity": "common",
+      "series": "文学・芸術の偉人"
+    },
+    {
+      "id": "c12",
+      "name": "与謝野晶子",
+      "emoji": "🌺",
+      "desc": "『みだれ髪』で知られ、近代日本文学を代表する女性歌人。",
+      "image": "images/c12.webp",
+      "rarity": "common",
+      "series": "日本の偉人"
+    },
+    {
+      "id": "c13",
+      "name": "西太后",
+      "emoji": "🏮",
+      "desc": "清の末期に大きな政治的影響力を持ち、中国近代史で学ばれる女性。",
+      "image": "images/c13.webp",
+      "rarity": "rare",
+      "series": "女王・リーダー"
+    },
+    {
+      "id": "c14",
+      "name": "アメリア・イアハート",
+      "emoji": "✈️",
+      "desc": "アメリカの飛行士で、女性として初めて大西洋単独横断飛行に成功した。",
+      "image": "images/c14.webp",
+      "rarity": "rare",
+      "series": "アメリカの偉人"
+    },
+    {
+      "id": "c15",
+      "name": "ココ・シャネル",
+      "emoji": "👗",
+      "desc": "20世紀を代表するファッションデザイナーで、シャネルブランドの創業者。",
+      "image": "images/c15.webp",
+      "rarity": "common",
+      "series": "文学・芸術の偉人"
+    },
+    {
+      "id": "c16",
+      "name": "ヘレン・ケラー",
+      "emoji": "🌟",
+      "desc": "障害を乗り越えて学び続け、多くの教科書で紹介される女性。",
+      "image": "images/c16.webp",
+      "rarity": "common",
+      "series": "勇気・正義の偉人"
+    },
+    {
+      "id": "c17",
+      "name": "ローザ・パークス",
+      "emoji": "🚌",
+      "desc": "公民権運動のきっかけをつくり、現代史で重要な女性。",
+      "image": "images/c17.webp",
+      "rarity": "common",
+      "series": "アメリカの偉人"
+    },
+    {
+      "id": "c18",
+      "name": "マザー・テレサ",
+      "emoji": "💖",
+      "desc": "カトリック教会の修道女で、インドのカルカッタで「死を待つ人々の家」などの施設を設立した。",
+      "image": "images/c18.webp",
+      "rarity": "common",
+      "series": "勇気・正義の偉人"
+    },
+    {
+      "id": "c19",
+      "name": "ハリエット・タブマン",
+      "emoji": "🛤️",
+      "desc": "奴隷解放運動で活躍し、アメリカ史で語られる女性。",
+      "image": "images/c19.webp",
+      "rarity": "common",
+      "series": "アメリカの偉人"
+    },
+    {
+      "id": "c20",
+      "name": "エリノア・ルーズベルト",
+      "emoji": "🕊️",
+      "desc": "世界人権宣言にも関わり、国際社会の歴史で重要な女性。",
+      "image": "images/c20.webp",
+      "rarity": "common",
+      "series": "アメリカの偉人"
+    }
+  ],
+  "meta": {
+    "theme": "歴史上の偉大な女性たち",
+    "totalCharacters": 20
+  }
+}
